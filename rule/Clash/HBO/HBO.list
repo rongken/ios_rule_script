@@ -56,4 +56,7 @@ DOMAIN-SUFFIX,prd.api.discomax.com
 DOMAIN-SUFFIX,media.max.com
 DOMAIN-SUFFIX,prd.api.max.com
 DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
 PROCESS-NAME,com.hbo.hbonow
