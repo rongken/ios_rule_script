@@ -52,4 +52,8 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-SUFFIX,prd.api.discomax.com
+DOMAIN-SUFFIX,media.max.com
+DOMAIN-SUFFIX,prd.api.max.com
+DOMAIN-SUFFIX,max.com
 PROCESS-NAME,com.hbo.hbonow
